@@ -30,5 +30,5 @@ Mode :
 `-h` --> J1 VS J2  
 `-o` --> J1 VS Bot
 
-**Documentation Technique et Utilisateur :**  
+**Documentation Utilisateur :**  
 Voir le fichier [Rapport_Attaxx.pdf](https://github.com/syltran/attaxx/blob/master/Rapport_Attaxx.pdf)
