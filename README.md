@@ -31,4 +31,4 @@ Mode :
 `-o` --> J1 VS Bot
 
 **Documentation Technique et Utilisateur :**  
-Voir le fichier `Rapport_Attaxx.pdf`
+Voir le fichier [Rapport_Attaxx.pdf](https://github.com/syltran/attaxx/blob/master/Rapport_Attaxx.pdf)
