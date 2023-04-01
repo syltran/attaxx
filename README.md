@@ -16,6 +16,7 @@ Celui qui possède alors le plus de pions gagne.
 ---
 
 ## Usage :
+Pour lancer le jeu, tapez :  
 ```
 make
 ./attaxx [-a | -g] [-h | -o]
