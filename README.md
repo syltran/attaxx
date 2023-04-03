@@ -15,6 +15,10 @@ Celui qui possède alors le plus de pions gagne.
 
 ---
 
+## Prérequis :
+L'interface graphique du jeu est réalisée avec la bibliothèque graphique `libMLV`.  
+Vous y trouverez le guide d'installation et la documentation [ici](http://www-igm.univ-mlv.fr/~boussica/mlv/index.html)
+
 ## Usage :
 Pour lancer le jeu, tapez :  
 ```
@@ -30,6 +34,10 @@ Affichage :
 Mode :  
 `-h` --> J1 VS J2  
 `-o` --> J1 VS Bot
+
+Vous pouvez taper `make clean` pour nettoyer le projet.
+
+Pour savoir comment jouer, regardez la documentation utilisateur.
 
 **Documentation Utilisateur :**  
 Voir le fichier [Rapport_Attaxx.pdf](https://github.com/syltran/attaxx/blob/master/Rapport_Attaxx.pdf)
